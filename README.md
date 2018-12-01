@@ -1,3 +1,5 @@
+---WORK IN PROGRESS---
+
 # pcf-on-aws-the-hard-way
 Installation instructions for PCF on AWS with as minimal UI interaction as possible. Initial instructions expect macOS, but after a few initial commands activity is done on a remove Linux VM on AWS.
 
